@@ -1,0 +1,1 @@
+"Emails\nexample.com\ngmail.com\ngmail.com\nyahoo.com\ndecagon.dev\ngmail.com\nmail.org"
